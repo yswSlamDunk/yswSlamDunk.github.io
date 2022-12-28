@@ -1,6 +1,6 @@
 ---
 title : "About Me"
-permalink : /aboutme/
+permalink : /aboutMe/
 ---
 
 # 저에 대한 설명
