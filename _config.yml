@@ -288,8 +288,21 @@ defaults:
       author_profile: false
       read_time: false
       comments: # true
-      share: true
+      share: false
       related: true
       show_date: true
+
+  # _pages
+  - scope:
+      path: ""
+      type : pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: true
+      show_date: false
       
 date_format: "%y-%m-%d"
