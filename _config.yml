@@ -294,6 +294,7 @@ defaults:
       toc: true
       toc_sticky: true
       search: true
+      classes : wide
 
   # _pages
   - scope:
@@ -308,5 +309,6 @@ defaults:
       related: true
       show_date: false
       search: false
+      classes : wide
       
 date_format: "%y-%m-%d"
