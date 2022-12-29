@@ -294,7 +294,6 @@ defaults:
       toc: true
       toc_sticky: true
       search: true
-      classes : wide
 
   # _pages
   - scope:
