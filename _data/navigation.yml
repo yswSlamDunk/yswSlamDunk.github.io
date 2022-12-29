@@ -6,7 +6,24 @@ main:
     url: https://github.com/yswSlamDunk
   - title: "Search"
     url: /search/
-    
+
+
+side_bar:
+  -title: Test
+   url : /categories/test
+   children:
+    -title: Test01
+     url : /categories/test01
+    -title: Test02
+     url : /categories/test02
+  -title: EX
+   url : /categories/ex
+   children:
+    -title: EX01
+     url : /categories/ex01
+    -title: EX02
+     url : /categories/ex02
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

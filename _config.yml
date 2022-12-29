@@ -294,6 +294,8 @@ defaults:
       toc: true
       toc_sticky: true
       search: true
+      sidebar:
+        nav: side_bar
 
   # _pages
   - scope:
