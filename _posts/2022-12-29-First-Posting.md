@@ -1,6 +1,6 @@
 ---
 layout : single
-title : "첫번 째 블로그 글"
+title : 첫번 째 블로그 글
 categories : test01
 tag : [github, test01_tag]
 ---
