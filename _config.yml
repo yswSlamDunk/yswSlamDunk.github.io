@@ -292,6 +292,7 @@ defaults:
       related: true
       show_date: true
       toc: true
+      toc_sticky: true
       search: true
 
   # _pages
