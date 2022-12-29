@@ -6,6 +6,8 @@ main:
     url: https://github.com/yswSlamDunk
   - title: "Search"
     url: /search/
+  - title: Tag
+    url : /tags/
 
 
 side_bar :
