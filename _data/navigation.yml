@@ -4,11 +4,12 @@ main:
     url: /aboutMe/
   - title: "GitHub"
     url: https://github.com/yswSlamDunk
-  - title: "Search"
-    url: /search/
   - title: Tag
     url : /tags/
-
+  - title : Category
+    url : /categories/
+  - title: "Search"
+    url: /search/
 
 side_bar :
   - title: Test
