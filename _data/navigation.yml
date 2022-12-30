@@ -4,6 +4,8 @@ main:
     url: /aboutMe/
   - title: "GitHub"
     url: https://github.com/yswSlamDunk
+  - title: "Potfolio"
+    url: /potfolio/
   - title: Tag
     url : /tags/
   - title : Category
@@ -26,12 +28,3 @@ side_bar :
       url : /categories/ex01
     - title: EX02
       url : /categories/ex02
-
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
