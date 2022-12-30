@@ -311,5 +311,7 @@ defaults:
       show_date: false
       search: false
       classes : wide
+      sidebar:
+        nav: side_bar
       
 date_format: "%y-%m-%d"
