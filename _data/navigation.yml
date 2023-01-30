@@ -1,14 +1,30 @@
 # main links
 main:
   - title: "About Me"
-    url: /doc/aboutMe.md
+    url: /aboutMe/
   - title: "GitHub"
     url: https://github.com/yswSlamDunk
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Potfolio"
+    url: /potfolio/
+  - title: Tag
+    url : /tags/
+  - title : Category
+    url : /categories/
+  - title: "Search"
+    url: /search/
+
+side_bar :
+  - title: Test
+    url : /categories/test
+    children:
+    - title: Test01
+      url : /categories/test01
+    - title: Test02
+      url : /categories/test02
+  - title: EX
+    url : /categories/ex
+    children:
+    - title: EX01
+      url : /categories/ex01
+    - title: EX02
+      url : /categories/ex02
