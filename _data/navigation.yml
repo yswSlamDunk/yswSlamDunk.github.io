@@ -14,17 +14,13 @@ main:
     url: /search/
 
 side_bar :
-  - title: Test
-    url : /categories/test
+  - title: DeepLearning
+    url : /categories/DeepLearning
     children:
-    - title: Test01
-      url : /categories/test01
-    - title: Test02
-      url : /categories/test02
-  - title: EX
-    url : /categories/ex
+    - title: PoseEstimation
+      url : /categories/PoseEstimation
+  - title: Certificate
+    url : /categories/Certificate
     children:
-    - title: EX01
-      url : /categories/ex01
-    - title: EX02
-      url : /categories/ex02
+    - title: ADSP
+      url : /categories/ADSP
