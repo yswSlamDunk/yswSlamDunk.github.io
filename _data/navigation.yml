@@ -19,7 +19,6 @@ side_bar :
     children:
     - title: PoseEstimation
       url : /categories/PoseEstimation
-    children:
     - title : DeepLearningBasic
       url : /categories/DeepLearningBasic
   - title: Certificate
