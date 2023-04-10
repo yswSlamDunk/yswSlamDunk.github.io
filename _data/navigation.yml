@@ -25,5 +25,5 @@ side_bar :
   - title: Certificate
     url : /categories/Certificate
     children:
-    - title: ADSP
-      url : /categories/ADSP
+    - title: EngineerBigDataAnalysis
+      url : /categories/EngineerBigDataAnalysis
