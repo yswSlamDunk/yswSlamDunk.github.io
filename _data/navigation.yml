@@ -2,10 +2,10 @@
 main:
   - title: "About Me"
     url: /aboutMe/
-  - title: "GitHub"
-    url: https://github.com/yswSlamDunk
   - title: "Potfolio"
     url: /potfolio/
+  - title: "GitHub"
+    url: https://github.com/yswSlamDunk
   - title: Tag
     url : /tags/
   - title : Category
