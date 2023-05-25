@@ -21,8 +21,26 @@ side_bar :
       url : /categories/PoseEstimation
     - title : DeepLearningBasic
       url : /categories/DeepLearningBasic
+    - title: Sequential
+      url : /categories/sequential
+    - title: Recommendation
+      url : /categories/Recommendation
   - title: Certificate
     url : /categories/Certificate
     children:
     - title: EngineerBigDataAnalysis
       url : /categories/EngineerBigDataAnalysis
+    - sqld: SQLD
+      url : /categories/SQLD
+  - title: Data Analytic
+    children:
+    - title: DataAnalyticTechniques
+      url: /categories/DataAnalyticTechniques
+  - title: Math&Statistics
+    children:
+    - title: LinearAlgebra
+      url: /categories/LinearAlgebrea
+    - title: SignalProcessingSystem
+      url: /categories/SignalProcessingSystem
+    - title: StatisticForMacketing
+      url: /categories/StaticsForMacketing
