@@ -294,6 +294,7 @@ defaults:
       toc: false
       # toc_sticky: true
       search: true
+      classes: wide
       sidebar:
         nav: side_bar
 
