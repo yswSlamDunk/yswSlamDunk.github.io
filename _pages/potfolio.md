@@ -2,6 +2,7 @@
 permalink : /potfolio/
 title : Potfolio
 toc : true
+layout : splash
 ---
 ![image-left]({{ site.url }}{{ site.baseurl }}/_pages/images_pages/project01/sample01.png){: .align-left}
 ### 프로젝트1 : 사업의 이름
