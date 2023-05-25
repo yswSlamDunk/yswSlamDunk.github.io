@@ -30,17 +30,23 @@ side_bar :
     children:
     - title: EngineerBigDataAnalysis
       url : /categories/EngineerBigDataAnalysis
-    - sqld: SQLD
+    - title: SQLD
       url : /categories/SQLD
   - title: Data Analytic
     children:
-    - title: DataAnalyticTechniques
-      url: /categories/DataAnalyticTechniques
+    - title: DataAnalysisTechniques
+      url: /categories/DataAnalysisTechniques
   - title: Math&Statistics
     children:
     - title: LinearAlgebra
       url: /categories/LinearAlgebrea
     - title: SignalProcessingSystem
+      url: /categories/StaticsForMacketing
       url: /categories/SignalProcessingSystem
     - title: StatisticForMacketing
-      url: /categories/StaticsForMacketing
+  - title: Development
+    children:
+    - title: FrontEnd
+      url: /categories/FrontEnd
+    - title: BackEnd
+      url: /categories/BackEnd
