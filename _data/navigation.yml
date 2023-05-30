@@ -33,18 +33,21 @@ side_bar :
     - title: SQLD
       url : /categories/SQLD
   - title: Data Analytic
+    url: /categories/DataAnalytic
     children:
     - title: DataAnalysisTechniques
       url: /categories/DataAnalysisTechniques
   - title: Math&Statistics
+    url: /categories/Math&Statistics
     children:
     - title: LinearAlgebra
       url: /categories/LinearAlgebrea
     - title: SignalProcessingSystem
-      url: /categories/StaticsForMacketing
       url: /categories/SignalProcessingSystem
     - title: StatisticForMacketing
+      url: /categories/StaticsForMacketing
   - title: Development
+    url: /categories/Development
     children:
     - title: FrontEnd
       url: /categories/FrontEnd
