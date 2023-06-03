@@ -1,7 +1,7 @@
 ---
 layout : single
-title : "[DeepLearningBasic] Chapter 4. 딥러닝, 그것이 알고싶다"
-categories : [DeepLearning, DeepLearningBasic]
-tag : [혁팬하임]
+title : "[Sequencial] 01. Transformer : Attention is all you need"
+categories : [DeepLearning, Sequencial]
+tag : [혁팬하임, attention, RNN, Transfomer, seq2seq, LLM, 자연어처리]
 ---
 
