@@ -1,7 +1,7 @@
 ---
 layout : single
 title : "[StatisticForMacketing] 01. 마케팅과학을 위한 통계분석"
-categories : [Certificate, SQLD]
+categories : [Math&Statistics, StaticsForMacketing]
 tag : [기초 통계분석, 인과관계 분석, 기타 다변량 통계분석, 기술통계량, T-검정, 상관관계분석, 범주형 데이터 분석, 카이제곱 검정, 신뢰성 분석, 분산분석, 회귀분석, 요인분석, 판별분석, 군집분석, 포지셔닝분석, 컨조인트분석, 비모수 통계분석]
 ---
 
