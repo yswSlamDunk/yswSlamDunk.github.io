@@ -53,3 +53,8 @@ side_bar :
       url: /categories/FrontEnd
     - title: BackEnd
       url: /categories/BackEnd
+  - title: AcademicDegree
+    url: /categories/AcademicDegree
+    children:
+    - title: Preparation
+      url: /categories/Preparation
