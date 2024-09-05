@@ -55,5 +55,6 @@ side_bar :
       url: /categories/RAG
   - title: Consulting
     url: /categories/Consulting
+    children:
     - title: Consulting Techniques
       url: /categories/ConsultingTechniques
