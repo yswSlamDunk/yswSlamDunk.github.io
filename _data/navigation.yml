@@ -19,10 +19,10 @@ side_bar :
     children:
     - title: PoseEstimation
       url : /categories/PoseEstimation
-    - title : DeepLearningBasic
+    - title : DeepLearning Basic
       url : /categories/DeepLearningBasic
     - title: Sequential
-      url : /categories/sequential
+      url : /categories/Sequential
     - title: Recommendation
       url : /categories/Recommendation
     - title: GAN
@@ -30,14 +30,14 @@ side_bar :
   - title: Certificate
     url : /categories/Certificate
     children:
-    - title: EngineerInformationProcessing
+    - title: Engineer Information Processing
       url : /categories/EngineerInformationProcessing
     - title: SQLD
       url : /categories/SQLD
   - title: Data Analytic
     url: /categories/DataAnalytic
     children:
-    - title: DataAnalysisTechniques
+    - title: DataAnalysis Techniques
       url: /categories/DataAnalysisTechniques
   - title: Development
     url: /categories/Development
@@ -49,11 +49,11 @@ side_bar :
   - title: LLM
     url: /categories/LLM
     children:
-    - title: PromptEngineering
+    - title: Prompt Engineering
       url: /categories/PromptEngineering
     - title: RAG
       url: /categories/RAG
   - title: Consulting
     url: /categories/Consulting
-    - title: ConsultingTechniques
+    - title: Consulting Techniques
       url: /categories/ConsultingTechniques
