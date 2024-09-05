@@ -30,8 +30,8 @@ side_bar :
   - title: Certificate
     url : /categories/Certificate
     children:
-    - title: EngineerBigDataAnalysis
-      url : /categories/EngineerBigDataAnalysis
+    - title: EngineerInformationProcessing
+      url : /categories/EngineerInformationProcessing
     - title: SQLD
       url : /categories/SQLD
   - title: Data Analytic
@@ -39,15 +39,6 @@ side_bar :
     children:
     - title: DataAnalysisTechniques
       url: /categories/DataAnalysisTechniques
-  - title: Math&Statistics
-    url: /categories/Math&Statistics
-    children:
-    - title: LinearAlgebra
-      url: /categories/LinearAlgebrea
-    - title: SignalProcessingSystem
-      url: /categories/SignalProcessingSystem
-    - title: StatisticForMacketing
-      url: /categories/StaticsForMacketing
   - title: Development
     url: /categories/Development
     children:
@@ -55,8 +46,14 @@ side_bar :
       url: /categories/FrontEnd
     - title: BackEnd
       url: /categories/BackEnd
-  - title: AcademicDegree
-    url: /categories/AcademicDegree
+  - title: LLM
+    url: /categories/LLM
     children:
-    - title: Preparation
-      url: /categories/Preparation
+    - title: PromptEngineering
+      url: /categories/PromptEngineering
+    - title: RAG
+      url: /categories/RAG
+  - title: Consulting
+    url: /categories/Consulting
+    - title: ConsultingTechniques
+      url: /categories/ConsultingTechniques
