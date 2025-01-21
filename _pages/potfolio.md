@@ -4,42 +4,214 @@ title : Potfolio
 toc : true
 layout : splash
 ---
-![image-left]({{ site.url }}{{ site.baseurl }}/_pages/images_pages/project01/sample01.png){: .align-left}
-### 프로젝트1 : 사업의 이름
-#### 부제목 : 필요시에 추가함 (지원사업의 경우, 회사명 삽입)
-<span style='background-color: #fff5b1'>python</span>, <span style='background-color: #f6f8fa'>pytorch</span>, <span style='background-color: #f1f8ff'>django</span>,<span style='background-color: #ffdce0'>pandas</span>, <span style='background-color: #f5f0ff'>numpy</span><br>
-{: .text-right}
-2022-12-01 ~ 2022-12-31<br>
-{: .text-right}
-프로젝트의 내용, 성과 기입한다.<br>
-{: .text-left}
-[더 알아보기](/project01/){:.btn.btn--primary}
-{: .text-right}
+
+<style>
+    .project-container {
+        display: flex;
+        align-items: center;
+        margin-bottom: 20px;
+    }
+    .image-left {
+        flex: 1;
+        margin-right: 20px;
+    }
+    .detail-right {
+        flex: 2;
+    }
+    .project-container img {
+        width: 100%;
+        height: auto;
+    }
+    .project-container a {
+        text-align: right;
+    }
+    .project-right{
+        text-align: right;
+    }
+</style>
+
+<div class="project-container">
+    <div class="image-left">
+        <img src="{{ site.url }}{{ site.baseurl }}/_pages/images_pages/project03/sample03.png"> 
+    </div>
+    <div class="detail-right">
+        <h3>무인 매장 운영 서비스 내 자동 마케팅 시스템 개발</h3>
+        <p class="project-right">2022-12-01 ~ 2022-12-31
+        <table>
+            <tr>
+                <td>성과</td>
+                <td>
+                    <ul>
+                        <li>무인 매장 운영 서비스 내 자동 마케팅 시스템 개발</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>역할</td>
+                <td>
+                    <ul>
+                        <li>무인 매장 운영 서비스 내 자동 마케팅 시스템 개발</li>
+                    </ul>
+                </td>
+            </tr>
+        </table>
+        <a href="/project01/">더 알아보기</a>
+    </div>
+</div>
 
 ---
 
-![image-left]({{ site.url }}{{ site.baseurl }}/_pages/images_pages/project02/sample02.png){: .align-left}
-### 프로젝트2 : 사업의 이름
-#### 부제목 : 필요시에 추가함 (지원사업의 경우, 회사명 삽입)
-<span style='background-color: #fff5b1'>python</span>, <span style='background-color: #f6f8fa'>pytorch</span>, <span style='background-color: #f1f8ff'>django</span>,<span style='background-color: #ffdce0'>pandas</span>, <span style='background-color: #f5f0ff'>numpy</span><br>
-{: .text-right}
-2022-12-01 ~ 2022-12-31 <br>
-{: .text-right}
-프로젝트의 내용, 성과 기입한다.<br>
-{: .text-left}
-[더 알아보기](/project02/){:.btn.btn--primary}
-{: .text-right}
+<div class="project-container">
+    <div class="image-left">
+        <img src="{{ site.url }}{{ site.baseurl }}/_pages/images_pages/project03/sample03.png"> 
+    </div>
+    <div class="detail-right">
+        <h3></h3>
+        <p class="project-right"></p>
+        <table>
+            <tr>
+                <td>성과</td>
+                <td>
+                    <ul>
+                        <li></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>역할</td>
+                <td>
+                    <ul>
+                        <li></li>
+                    </ul>
+                </td>
+            </tr>
+        </table>
+        <a href="/project01/">더 알아보기</a>
+    </div>
+</div>
 
 ---
 
-![image-left]({{ site.url }}{{ site.baseurl }}/_pages/images_pages/project03/sample03.png){: .align-left}
-### 프로젝트2 : 사업의 이름
-#### 부제목 : 필요시에 추가함 (지원사업의 경우, 회사명 삽입)
-<span style='background-color: #fff5b1'>python</span>, <span style='background-color: #f6f8fa'>pytorch</span>, <span style='background-color: #f1f8ff'>django</span>, <span style='background-color: #ffdce0'>pandas</span>, <span style='background-color: #f5f0ff'>numpy</span><br>
-{: .text-right}
-2022-12-01 ~ 2022-12-31<br>
-{: .text-right}
-프로젝트의 내용, 성과 기입한다.<br>
-{: .text-left}
-[더 알아보기](/project03/){:.btn.btn--primary}
-{: .text-right}
+<div class="project-container">
+    <div class="image-left">
+        <img src="{{ site.url }}{{ site.baseurl }}/_pages/images_pages/project03/sample03.png"> 
+    </div>
+    <div class="detail-right">
+        <h3></h3>
+        <p class="project-right"></p>
+        <table>
+            <tr>
+                <td>성과</td>
+                <td>
+                    <ul>
+                        <li></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>역할</td>
+                <td>
+                    <ul>
+                        <li></li>
+                    </ul>
+                </td>
+            </tr>
+        </table>
+        <a href="/project01/">더 알아보기</a>
+    </div>
+</div>
+
+---
+
+<div class="project-container">
+    <div class="image-left">
+        <img src="{{ site.url }}{{ site.baseurl }}/_pages/images_pages/project03/sample03.png"> 
+    </div>
+    <div class="detail-right">
+        <h3></h3>
+        <p class="project-right"></p>
+        <table>
+            <tr>
+                <td>성과</td>
+                <td>
+                    <ul>
+                        <li></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>역할</td>
+                <td>
+                    <ul>
+                        <li></li>
+                    </ul>
+                </td>
+            </tr>
+        </table>
+        <a href="/project01/">더 알아보기</a>
+    </div>
+</div>
+
+---
+
+<div class="project-container">
+    <div class="image-left">
+        <img src="{{ site.url }}{{ site.baseurl }}/_pages/images_pages/project03/sample03.png"> 
+    </div>
+    <div class="detail-right">
+        <h3></h3>
+        <p class="project-right"></p>
+        <table>
+            <tr>
+                <td>성과</td>
+                <td>
+                    <ul>
+                        <li></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>역할</td>
+                <td>
+                    <ul>
+                        <li>무인 매장 운영 서비스 내 자동 마케팅 시스템 개발</li>
+                    </ul>
+                </td>
+            </tr>
+        </table>
+        <a href="/project01/">더 알아보기</a>
+    </div>
+</div>
+
+---
+
+<div class="project-container">
+    <div class="image-left">
+        <img src="{{ site.url }}{{ site.baseurl }}/_pages/images_pages/project03/sample03.png"> 
+    </div>
+    <div class="detail-right">
+        <h3>무인 매장 운영 서비스 내 자동 마케팅 시스템 개발</h3>
+        <p class="project-right"></p>
+        <table>
+            <tr>
+                <td>성과</td>
+                <td>
+                    <ul>
+                        <li>무인 매장 운영 서비스 내 자동 마케팅 시스템 개발</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>역할</td>
+                <td>
+                    <ul>
+                        <li>무인 매장 운영 서비스 내 자동 마케팅 시스템 개발</li>
+                    </ul>
+                </td>
+            </tr>
+        </table>
+        <a href="/project01/">더 알아보기</a>
+    </div>
+</div>
+
+---
